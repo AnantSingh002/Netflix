@@ -12,8 +12,8 @@ body {
 
 /* Hero Section */
 .hero {
-    background-image: url(stranger.jpg); /* Replace with your background image */
-    background-size: contain;
+    background-image: url(new.webp); /* Replace with your background image */
+    background-size: cover;
     background-position: center;
     /* color: white; */
     height: 100vh;
